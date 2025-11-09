@@ -10,7 +10,7 @@ To calculate the maximum range of a radar system using the Radar Range equation 
 
 The Radar Range Equation is a fundamental formula used in radar system design to determine the maximum range at which a radar can detect a target. It is given by:
 
-$$R_{max} = \left(\frac{P_t G_t G_r \lambda^2 \sigma}{(4 \pi)^3 P_min} \right)^{\frac{1}{4}}$$
+$$R_{max} = \left(\frac{P_t G \sigma A_e}{(4 \pi)^2 S_min} \right)^{\frac{1}{4}}$$
 
 ---
 
